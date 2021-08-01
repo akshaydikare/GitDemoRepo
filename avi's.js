@@ -12,3 +12,6 @@ let  nmae = "SHri Krishna";
 
 
 console.log('jk')
+
+
+console.log("Swap")
